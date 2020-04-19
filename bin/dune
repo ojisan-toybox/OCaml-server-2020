@@ -1,4 +1,4 @@
 (executable
  (public_name server)
  (name main)
- (libraries httpaf base stdio))
+ (libraries httpaf httpaf-lwt-unix base stdio lwt lwt.unix yojson))
