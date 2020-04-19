@@ -5,7 +5,7 @@
 
 % dune exec server
 
-% curl -X POST -H "Content-Type: application/json" -d '{"Name":"sensuikan1973", "Age":"100"}'  http://localhost:8080
+% curl -X POST -H "Content-Type: application/json" -d '{"Name":"a", "Age":"100"}'  http://localhost:8080
 {"Name":"sensuikan1973", "Age":"100"}
 ```
 
