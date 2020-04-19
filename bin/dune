@@ -1,3 +1,4 @@
 (executable
  (public_name server)
- (name main))
+ (name main)
+ (libraries httpaf base stdio))
