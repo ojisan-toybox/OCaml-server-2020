@@ -1,4 +1,13 @@
-# いまどきの OCaml
+# echo server practice
+
+```
+% dune build
+
+% dune exec server
+
+% curl -X POST -H "Content-Type: application/json" -d '{"Name":"sensuikan1973", "Age":"100"}'  http://localhost:8080
+{"Name":"sensuikan1973", "Age":"100"}
+```
 
 ## memo
 
