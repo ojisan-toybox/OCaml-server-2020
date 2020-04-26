@@ -11,7 +11,7 @@
 
 ## Memo
 
-OCaml の version は 4.09.1 を使う, 現時点で最新版の OCaml は OCaml-LSP が内部で使っている Merlin のフォークが古く 4.10.0 に対応していない。
+OCaml の version は 4.09.1 を使う, 現時点で最新版の OCaml 4.10.0 は OCaml-LSP が内部で使っている Merlin のフォークが古く 4.10.0 に対応していない。
 
 特定 version の環境は `opam switch create <version>` で作れる。
 
